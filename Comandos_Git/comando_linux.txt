@@ -1,2 +1,3 @@
 pwd: Muestra la ruta compelta del directorio
 cd: Permita cambiar de directorio
+ls: lista todos los files y folders del directorio
