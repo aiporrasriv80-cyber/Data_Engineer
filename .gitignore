@@ -5,3 +5,4 @@ fundamentos_python/notebooks/*
 !fundamentos_python/notebooks/01_variables.ipynb
 !fundamentos_python/notebooks/02_operaciones_aritmet.ipynb
 !fundamentos_python/notebooks/03_operadores_logicos.ipynb
+!fundamentos_python/notebooks/04_f_strings.ipynb
